@@ -15,7 +15,7 @@ balance of users accounts.
 The serialised data from both the classes are 
 stored in acc_info.ser and storage.ser
 
-#Running the program
+##Running the program
 
 Run in this order
 accounts.class -> storage.class -> atm.class
